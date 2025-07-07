@@ -35,7 +35,8 @@ This project demonstrates a scalable, metadata-driven **incremental data ingesti
                         | Delete Temp Files | → | Update Watermark SP    |
                         +-------------------+   +------------------------+
 
-![Screenshot 2025-07-07 141815](https://github.com/user-attachments/assets/198c6358-6447-4604-b8af-4b17b9a686d4)
+
+<img width="827" alt="Screenshot 2025-07-07 141815" src="https://github.com/user-attachments/assets/883b35ea-43a7-40de-81a8-320930860c70" />
 
 
 
